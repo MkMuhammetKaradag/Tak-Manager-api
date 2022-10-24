@@ -2,7 +2,7 @@ import mongodb from 'mongodb'
 import { ObjectId } from 'mongodb'
 
 const MongoClient = mongodb.MongoClient
-const connectionURL = "mongodb+srv://muhammetkaradag:HAnDYGNSavI4WByA@cluster0.qbo2i.mongodb.net/task-manager?retryWrites=true&w=majority"
+const connectionURL = "**********"
 const database = "task-manager"
 
 // MongodbClient.connect(connectionURL,{ıserNewUrlParser:true},(error,client)=>{
